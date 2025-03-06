@@ -11,5 +11,4 @@ A project that fetches real-time weather data for different locations using the 
 
 # Technologies Used
 Programming Language: React JS
-
 API: OpenWeatherMap
