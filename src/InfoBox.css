@@ -1,12 +1,10 @@
 .infobox {
     text-align: center;
-    padding: 1em; /* Added padding for better spacing */
-    border-radius: 8px; /* Rounded corners */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+    transition: all 0.3s ease;
 }
 
-.cardContainer {
-    display: flex;
-    justify-content: center;
-    gap: 1em; /* Added gap between cards for better layout */
+@media (max-width: 600px) {
+    .infobox {
+        padding: 0.5em;
+    }
 }
