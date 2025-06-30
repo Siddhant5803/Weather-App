@@ -13,3 +13,22 @@ A project that fetches real-time weather data for different locations using the 
 Programming Language: React JS
 
 API: OpenWeatherMap
+
+# Getting Started
+
+## Create a New React Project with Vite
+npm create vite@latest       
+[Choose React and JavaScript when prompted.]
+
+## Move into the Project Directory
+cd your-project-name
+
+## Install Dependencies:
+npm install
+
+## Install Material UI:
+npm install @mui/material @emotion/react @emotion/styled                                           
+npm install @mui/icons-material
+
+## Run the Development Server:
+npm run dev
