@@ -1,10 +1,13 @@
 .infobox {
-    text-align: center;
-    transition: all 0.3s ease;
+  text-align: center;
+  transition: all 0.3s ease;
+  display: flex;
+  justify-content: center;
+  margin-top: 2rem;
 }
 
 @media (max-width: 600px) {
-    .infobox {
-        padding: 0.5em;
-    }
+  .infobox {
+    padding: 0.5em;
+  }
 }
