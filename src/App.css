@@ -1,7 +1,7 @@
 .card {
   padding: 2em;
-  background-color: #f0f8ff; /* Light background color for better visibility */
-  border: 1px solid #ccc; /* Light border for definition */
-  border-radius: 8px; /* Rounded corners */
-  transition: transform 0.2s; /* Smooth transition for hover effect */
+  background-color: #f0f8ff;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  transition: transform 0.2s; 
 }
